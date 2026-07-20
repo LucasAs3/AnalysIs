@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+!.env.example
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos gerados
+output/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
